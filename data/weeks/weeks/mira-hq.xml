@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-week>
+<week name="MIRA-HQ" chars="none,bf,gf" sprite="week1">
+	<song>sussus-toogus</song>
+	<song>lights-down</song>
+	<song>reactor</song>
+	<song hide="true">ejected</song>
+</week>

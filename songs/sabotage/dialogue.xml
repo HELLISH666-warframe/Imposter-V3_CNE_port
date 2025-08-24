@@ -1,0 +1,59 @@
+<!DOCTYPE codename-engine-dialogue>
+<dialogue box="dialogueBox">
+	<!-- All characters -->
+	<char name="redImpostor" char="redImpostor" position="left"  defaultAnim="normal" />
+	<char name="boyfriend" char="boyfriend" position="right" defaultAnim="boyfriend neutral" />
+
+	<!-- Lines -->
+	<line char="boyfriend">
+		OH MY GOD YOU KILLED MY FUCKING GIRLFRIEND
+	</line>
+	<line char="boyfriend">
+		WHAT IS ACTUALLY WRONG WITH YOU
+	</line>
+	<line char="boyfriend">
+		I WANTED TO SPEND MY LIFE WITH HER
+	</line>
+	<line char="boyfriend">
+		I LOVED HER
+	</line>
+	<line char="boyfriend">
+		SHE WAS MY SOULMATE AND YOU JUST FUCKING KILLED HER
+	</line>
+	<line char="boyfriend" >
+		DO YOU HAVE ANY REMORSE FOR WHAT YOUVE DONE??
+	</line>
+	<line char="boyfriend">
+		MY LIFE IS FUCKING RUINED
+	</line>
+	<line char="boyfriend" >
+		I DONT WANT TO KEEP FUCKING LIVING
+	</line>
+	<line char="boyfriend">
+		IM TIRED OF FUCKING RAPPING
+	</line>
+	<line char="boyfriend">
+		FUCK
+	</line>
+	<line char="boyfriend" >
+		MY LIFE HAS NO PURPOSE
+	</line>
+	<line char="boyfriend">
+		FUCK FUCK FUCK FUCK
+	</line>
+	<line char="boyfriend" >
+		FUCK
+	</line>
+	<line char="boyfriend">
+		FUCK
+	</line>
+	<line char="boyfriend">
+		FUCK
+	</line>
+	<line char="boyfriend" >
+		FUCK
+	</line>
+	<line char="redImpostor">
+		lmao
+	</line>
+</dialogue>

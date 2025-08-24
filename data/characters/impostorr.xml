@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="impostorR" icon="impostor3" color="#40AB22" x="0" y="0" >
+	<anim name="idle" anim="impostor idle0"  loop="true"/>
+	<anim name="singLEFT" anim="imposter left0" x="78" y="17" />
+	<anim name="singDOWN" anim="impostor down0" x="-57" y="-24" />
+	<anim name="singUP" anim="impostor up" x="245" y="89" />
+	<anim name="singRIGHT" anim="impostor right0" x="-56" y="-16" />
+</character>

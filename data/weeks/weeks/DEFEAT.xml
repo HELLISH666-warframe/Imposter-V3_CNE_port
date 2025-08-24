@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-week>
+<week name="DEFEAT" chars="none,bf,gf" sprite="week3">
+	<song hide="true">defeat</song>
+</week>

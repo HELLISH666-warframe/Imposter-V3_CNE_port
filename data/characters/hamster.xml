@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="hamster" icon="hamster" color="#FFCF86" x="200" y="350" camx="100" camy="200" >
+	<anim name="idle" anim="HamsterIdle" x="5" y="0" loop="true"/>
+	<anim name="singUP" anim="HamsterUp" x="5" y="0" />
+	<anim name="singLEFT" anim="HamsterLeft" x="5" y="0" />
+	<anim name="singRIGHT" anim="HamsterRight" x="5" y="0" />
+	<anim name="singDOWN" anim="HamsterDown" x="5" y="0" />
+</character>

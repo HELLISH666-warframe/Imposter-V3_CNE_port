@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="crewmate" icon="crewmate" color="#40AB22" x="0" y="300" >
+	<anim name="idle" anim="impostor idle"  loop="true"/>
+	<anim name="singUP" anim="impostor up" x="130" y="100" />
+	<anim name="singRIGHT" anim="impostor right" x="72" y="-14" />
+	<anim name="singDOWN" anim="impostor down" x="152" y="-28" />
+	<anim name="singLEFT" anim="imposter left" x="211" y="4" />
+</character>

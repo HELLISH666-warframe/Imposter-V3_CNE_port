@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.5"  folder="stages/farm/">
+	<girlfriend />
+   	<dad y="500" camxoffset="4s0" camyoffset="0" />
+   	<boyfriend y="500" />
+</stage>

@@ -1,0 +1,16 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="bfFly" flipX="true" icon="bf" color="#31B0D1">
+	<anim name="idle" anim="fall !idle" x="-5" y="0" fps="24" loop="true"/>
+	<anim name="singUP" anim="fall 2up" x="-29" y="27" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="fall 3right" x="-38" y="-7" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="fall 0left" x="12" y="-6" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="fall 1down" x="-10" y="-50" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="MISS 2up" x="-29" y="27" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="MISS 3right" x="-30" y="21" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="MISS 0left" x="12" y="24" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="MISS 1down" x="-11" y="-19" fps="24" loop="false"/>
+	<anim name="firstDeath" anim="dead 0START" x="459" y="399" fps="24" loop="false"/>
+	<anim name="deathLoop" anim="dead 1MID" x="459" y="-189" fps="24" loop="true"/>
+	<anim name="deathConfirm" anim="dead 2END" x="459" y="-137" fps="24" loop="false"/>
+	<anim name="hey" anim="'BF HEY" x="7" y="4" fps="24" loop="false"/>
+</character>

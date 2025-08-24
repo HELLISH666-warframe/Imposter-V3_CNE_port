@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-dialogue-character>
+<character x="300">
+	<anim name="cry" anim="*crys* why..." fps="24" />
+	<anim name="happy" anim="boyfriend happy" fps="24" />
+	<anim name="mad" anim="boyfriend mad" fps="24" />
+	<anim name="normal" anim="boyfriend neutral" fps="24" />
+	<anim name="phase" anim="boyfriend phase" fps="24" />
+	<anim name="shocked" anim="boyfriend shocked" fps="24" />
+	<anim name="stupid" anim="boyfriend stupid" fps="24" />
+	<anim name="pissed" anim="boyfriend very angry probably" fps="24" />
+	<anim name="gay?" anim="hahha homosexua" fps="24" />
+</character>

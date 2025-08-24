@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="bfSus" flipX="true" icon="bf-pixel" x="-100" y="600" color="#7BD6F6">
+	<anim name="idle" anim="BF IDLE" x="-5" y="0" fps="24" loop="true"/>
+	<anim name="singUP" anim="BF UP NOTE" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="BF RIGHT NOTE" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="BF LEFT NOTE" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="BF DOWN NOTE" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="BF UP MISS" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="BF RIGHT MISS" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="BF LEFT MISS" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="BF DOWN MISS" x="0" y="0" fps="24" loop="false"/>
+</character>

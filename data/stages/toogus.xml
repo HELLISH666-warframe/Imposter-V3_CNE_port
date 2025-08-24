@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.85"  folder="stages/farm/">
+	<girlfriend />
+   	<dad />
+   	<boyfriend />
+</stage>

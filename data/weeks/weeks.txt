@@ -1,0 +1,7 @@
+# THIS FILE ISNT NECESSARY,
+# BUT YOU CAN USE IT TO SORT WEEKS
+
+polus
+mira-hq
+skeld
+DEFEAT

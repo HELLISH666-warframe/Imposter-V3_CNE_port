@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="parasite" icon="parasite" color="#40ab22" x="200" y="550" >
+	<anim name="idle" anim="mungus idle"  loop="true"/>
+	<anim name="singUP" anim="parasite up new" x="-10" y="196" />
+	<anim name="singRIGHT" anim="parasite right" x="30" y="16" />
+	<anim name="singDOWN" anim="paracite down" x="-18" y="-111" />
+	<anim name="singLEFT" anim="parasite left" x="50" y="49" />
+</character>

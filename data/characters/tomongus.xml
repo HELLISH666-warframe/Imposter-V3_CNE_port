@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="tomongus" icon="tomongus" color="#FF6770" x="200" y="550" >
+	<anim name="idle" anim="Idle"  loop="true"/>
+	<anim name="singUP" anim="Right" x="0" y="0" />
+	<anim name="singRIGHT" anim="Up" x="0" y="0" />
+	<anim name="singDOWN" anim="Down" x="0" y="0" />
+	<anim name="singLEFT" anim="Left" x="0" y="0" />
+	<anim name="die" anim="SHOT" x="1024" y="120" />
+</character>

@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-dialogue-character>
+<character x="-100">
+	<anim name="mad" anim="impostor mad" fps="24" />
+	<anim name="normal" anim="impostor neutral" fps="24" />
+	<anim name="shocked" anim="impostor shocked" fps="24" />
+	<anim name="happy" anim="impostor happy" fps="24" />
+	<anim name="the amonguses" anim="the amonguses" fps="24" />
+	<anim name="the amonguses mad" anim="the amonguses mad" fps="24" />
+	<anim name="the secret impostor" anim="the secret impostor" fps="24" />
+</character>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dialogueBox.png" width="1068" height="264" scale="1" >
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="normal000" x="1" y="1" width="1068" height="264" frameX="1068" frameY="264" frameWidth="1068" frameHeight="264"/>
+</TextureAtlas>

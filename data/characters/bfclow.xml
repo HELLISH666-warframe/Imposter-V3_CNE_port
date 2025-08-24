@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="clowofe" flipX="true" icon="bfclow" y="300" color="#FFFFFF">
+	<anim name="idle" anim="idle" x="-5" y="0" fps="24" loop="true"/>
+	<anim name="singUP" anim="up" x="-29" y="27" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="left" x="12" y="-6" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="right" x="-38" y="-7" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="down" x="-10" y="-50" fps="24" loop="false"/>
+</character>

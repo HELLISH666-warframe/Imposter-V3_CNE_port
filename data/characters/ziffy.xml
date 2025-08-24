@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="ziffy" icon="face" color="#FFFFFF" x="200" y="550" >
+	<anim name="idle" anim="IdleZiffy"  loop="true"/>
+	<anim name="singUP" anim="UpZiffy" x="0" y="2" />
+	<anim name="singRIGHT" anim="RightZiffy" x="-5" y="0" />
+	<anim name="singDOWN" anim="DownZiffy" x="0" y="-6" />
+	<anim name="singLEFT" anim="LeftZiffy" x="7" y="-3" />
+</character>
